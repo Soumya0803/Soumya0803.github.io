@@ -1,14 +1,14 @@
-# Site settings
+﻿# Site settings
 title: "Soumya Chopra"
 email: soumyachopra@gmail.com
 description: "Blog"
 #baseurl: "https://soumyachopra.github.io"
 url: "soumyachopra.githb.io"
 title_description: "A blog by me"
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title_image: "/favicons/pic.jpg"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+#github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
