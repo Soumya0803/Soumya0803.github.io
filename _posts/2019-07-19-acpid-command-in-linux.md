@@ -69,12 +69,13 @@ Tells acpid to use the specified file as its pidfile. If the file exists, it wil
 <b>v, –version</b>
 Prints the version information and exits.
 Output:
-version
+![acpid](/favicons/acpidversion1.png)
 
 <b>h, –help </b>
 Shows help and exits.
 Output:
-help
+![acpid](/favicons/acpidhelp.png)
+
 
 <b>Service Control</b>
 
@@ -84,8 +85,7 @@ Use the service utility for controlling the acpid service:
 service  acpid
 ```
 
-Output:
-service
+![acpid](/favicons/serviceacpid..png)
 
 To Start the service:
 
@@ -100,7 +100,8 @@ To Stop the service:
 service acpid stop
 ```
 Output:
-stop service
+![acpid](/favicons/stopservice11.png)
+
 You will be prompted for authentication.
 
 Check if the serivce is started or stopped:
@@ -108,7 +109,6 @@ Check if the serivce is started or stopped:
 ```python
 service acpid status
 ```
-
 Output:
-status
+![acpid](/favicons/stopservice.1.png)
 
