@@ -84,7 +84,7 @@ Use the service utility for controlling the acpid service:
 ```python
 service  acpid
 ```
-
+Output:
 ![acpid](/favicons/serviceacpid..png)
 
 To Start the service:
