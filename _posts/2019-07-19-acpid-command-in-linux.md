@@ -68,6 +68,7 @@ Tells acpid to use the specified file as its pidfile. If the file exists, it wil
 
 <b>v, –version</b>
 Prints the version information and exits.
+
 Output:
 ![acpid](/favicons/acpidversion1.png)
 
